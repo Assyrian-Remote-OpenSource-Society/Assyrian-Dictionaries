@@ -28,6 +28,10 @@ All the fields that one would expect from the common dictionary should be includ
 
 The first step is to collect dictionaries (in digital format) that are available for free. 
 
+## Approach
+
+Use technology to extract data from digital formats and adapt it into JSON/CSV datasets. Manual entry of data should not begin until available sources have been completely parsed.
+
 ## Outcome
 
 Once the datasets are available, mobile and web developers will be able to develop Assyrian dictionary, thesaurus, and language-based apps. It's evident that there are many who have interest in developing an Assyrian dictionary app, but - apparently - the datasets haven't been available in a programmatically consumable way.

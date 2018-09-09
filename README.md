@@ -42,7 +42,7 @@ At the time of writing this, there are a couple of mobile app developers who are
 
 This repository should not include dictionaries that are not free. No potential harm should be caused to any author and/or publisher, not just to respect copyrights and avoid affecting their financial outcome, but to also prevent discouraging authors from producing dictionaries. 
 
-Available dictionary web services should not be scraped to collect data. This would not only be harmful to the authors/publishers of the web-based dictionary, it would also be harmful to the language, as it could discourage further development of the dictionary. 
+Available dictionary web services should not be scraped to collect data. This would not only be harmful to the authors/publishers of the web-based dictionary, it would also be harmful to the language, as it could discourage further development of the affected dictionaries. 
 
 ## Notes
 

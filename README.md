@@ -36,5 +36,5 @@ At the time of writing this, there are a couple of mobile app developers who are
 
 ## Standards
 
-This repository should not include dictionaries that are not free. No harm should be caused to any author and/or publisher, not just to respect copyrights and avoid affecting their financial outcome, but to also prevent discouraging authors from producing dictionaries. 
+This repository should not include dictionaries that are not free. No potential harm should be caused to any author and/or publisher, not just to respect copyrights and avoid affecting their financial outcome, but to also prevent discouraging authors from producing dictionaries. 
 

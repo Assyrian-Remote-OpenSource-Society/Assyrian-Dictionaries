@@ -28,6 +28,12 @@ All the fields that one would expect from the common dictionary should be includ
 
 The first step is to collect dictionaries (in digital format) that are available for free. 
 
+## Outcome
+
+Once the datasets are available, mobile and web developers will be able to develop Assyrian dictionary apps. It's evident that there are many who would like to develop such an app, but - apparently - the datasets haven't been available in a programmatically consumable way.
+
+At the time of writing this, there are a couple of mobile app developers who are trying to produce Assyrian dictionary apps; however, the apps depend on an internet connection. This is due to the fact that they have to use the available web service APIs (most of which depend on the same web service).
+
 ## Standards
 
 This repository should not include dictionaries that are not free. No harm should be caused to any author and/or publisher, not just to respect copyrights and avoid affecting their financial outcome, but to also prevent discouraging authors from producing dictionaries. 

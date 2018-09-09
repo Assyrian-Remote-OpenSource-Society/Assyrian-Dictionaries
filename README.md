@@ -1,5 +1,5 @@
 # Assyrian Dictionaries
-Collection of Assyrian Dictionaries in digital format.
+Collection of Assyrian dictionaries in digital format.
 
 **Oraham's Dictionary of the Stabilized and Enriched Assyrian Language and English** <br>
 by Alexander Joseph Oraham <br>

@@ -30,7 +30,7 @@ The first step is to collect dictionaries (in digital format) that are available
 
 ## Outcome
 
-Once the datasets are available, mobile and web developers will be able to develop Assyrian dictionary apps. It's evident that there are many who would like to develop such an app, but - apparently - the datasets haven't been available in a programmatically consumable way.
+Once the datasets are available, mobile and web developers will be able to develop Assyrian dictionary, thesaurus, and language-based apps. It's evident that there are many who have interest in developing an Assyrian dictionary app, but - apparently - the datasets haven't been available in a programmatically consumable way.
 
 At the time of writing this, there are a couple of mobile app developers who are trying to produce Assyrian dictionary apps; however, the apps depend on an internet connection. This is due to the fact that they have to use the available web service APIs (most of which depend on the same web service).
 

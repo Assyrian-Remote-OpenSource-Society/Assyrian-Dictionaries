@@ -11,7 +11,22 @@ Description: Text search available for English (using Adobe PDF reader). Syriac 
 
 ## Plans
 
-The ultimate goal of this repository is to provide a digital dataset of Assyrian words in a programmatically consumable format, such as JSON/CSV. The first step is to collect dictionaries (in digital format) that are available for free. 
+The ultimate goal of this repository is to provide a digital dataset of Assyrian words/definitions in a programmatically consumable format, such as JSON/CSV. 
+
+All the fields that one would expect from the common dictionary should be included, along with some additional data when available.
+
+- Syriac spelling (Eastern and Western)
+- Pronunciation in translated language
+- Type of word
+- Definition in translated language
+- Definition in Assyrian, itself (both Eastern and Western)
+- Example usage (multiple sentences)
+- Verb tenses
+- Source (the dictionary from which the data has been adapted)
+- Possible place of origin
+- Possible language of origin (Akkadian, Aramaic, borrowed from a known language, etc.)
+
+The first step is to collect dictionaries (in digital format) that are available for free. 
 
 ## Standards
 

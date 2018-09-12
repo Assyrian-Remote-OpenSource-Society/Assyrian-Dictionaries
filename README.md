@@ -9,6 +9,15 @@ Development: 25 years <br>
 Words: 21,000 <br>
 Description: Text search available for English (using Adobe PDF reader). Syriac characters are not searchable at this time. <br>
 
+**A Dictionary of the Dialects of Vernacular Syriac** <br>
+by Arthur John Maclean <br>
+Bio: https://en.wikipedia.org/wiki/Arthur_Maclean <br>
+Published: 1901 <br>
+Development: ? years <br>
+Words: ? <br>
+Description: Text search available for English (using Adobe PDF reader). Syriac characters are not searchable at this time. <br>
+Changelog (2018/09/11): Added English text recognition for searchability. Created content bookmarks.
+
 ## Plans
 
 The ultimate goal of this repository is to provide a digital dataset of Assyrian words/definitions in a programmatically consumable format, such as JSON/CSV. 

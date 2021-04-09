@@ -18,6 +18,14 @@ Words: ? <br>
 Description: Text search available for English (using Adobe PDF reader). Syriac characters are not searchable at this time. <br>
 Changelog (2018/09/11): Added English text recognition for searchability. Created content bookmarks.
 
+**Colloquial Syriac As Spoken In The Assyrian Levies** <br>
+by Lieut. R. Hart, MBE <br>
+Bio: ? <br>
+Published: 1926 <br>
+Development: ? years <br>
+Words: ~805+ <br>
+Description: Text search available for English (using Adobe PDF reader). Syriac characters are not searchable at this time. The word count above is of the English base words in the vocab section (50 pages). The words in the other sections have not been counted, but an estimate might be about 350-450, cumulatively. <br>
+
 ## Plans
 
 The ultimate goal of this repository is to provide a digital dataset of Assyrian words/definitions in a programmatically consumable format, such as JSON/CSV. 
